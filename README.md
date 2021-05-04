@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 👯 I’m looking to collaborate on **Open Source**
+
 - 💬 Ask me about **UI Designing**
 
 - 📫 How to reach me **meghrajlondhe19@gmail.com**
